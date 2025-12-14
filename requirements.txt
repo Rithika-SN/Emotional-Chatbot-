@@ -1,0 +1,8 @@
+streamlit==1.26.0
+nltk==3.8.1
+pandas==2.2.0
+vaderSentiment==3.3.2
+textblob==0.17.1
+import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')

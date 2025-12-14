@@ -1,0 +1,39 @@
+{
+  "greetings": [
+    "Hey! How are you feeling right now?",
+    "Hi — tell me how your day is going.",
+    "Hello! I'm here for you. What's on your mind?"
+  ],
+  "suggestions": {
+    "stress": [
+      "Try a 3-4 minute breathing exercise: inhale 4s, hold 4s, exhale 6s.",
+      "Break your task into 15-minute sprints and do one small step now.",
+      "Take a 10-minute walk and return with fresh eyes."
+    ],
+    "sad": [
+      "Write down 3 things you are grateful for today — even small ones.",
+      "Try a 5-minute grounding exercise: name 5 things you see, 4 you can touch, 3 you hear.",
+      "Connect with a friend for a short chat."
+    ],
+    "happy": [
+      "Great to hear! Consider reviewing what went well — repeat it tomorrow.",
+      "Celebrate one small win: treat yourself to a short break."
+    ],
+    "motivated": [
+      "Use your energy: set a 45-90 minute deep work block on your top priority.",
+      "Write a tiny plan (3 steps) and check one off now."
+    ],
+    "bored": [
+      "Try a new study method: Pomodoro (25/5) or active recall flashcards.",
+      "Change your study location for a fresh perspective."
+    ],
+    "neutral": [
+      "Try the Pomodoro technique: 25 minutes focused, 5 minutes break.",
+      "Set one small achievable goal for the next hour."
+    ]
+  },
+  "fallbacks": [
+    "I'm here to listen. Can you say a bit more?",
+    "Thanks for sharing — would you like a breathing exercise or a study tip?"
+  ]
+}
